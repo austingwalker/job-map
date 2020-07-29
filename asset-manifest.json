@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/job-map/static/css/main.6f304b5b.chunk.css",
+    "main.js": "/job-map/static/js/main.2943c73c.chunk.js",
+    "main.js.map": "/job-map/static/js/main.2943c73c.chunk.js.map",
+    "runtime-main.js": "/job-map/static/js/runtime-main.b078931d.js",
+    "runtime-main.js.map": "/job-map/static/js/runtime-main.b078931d.js.map",
+    "static/js/2.bac1adab.chunk.js": "/job-map/static/js/2.bac1adab.chunk.js",
+    "static/js/2.bac1adab.chunk.js.map": "/job-map/static/js/2.bac1adab.chunk.js.map",
+    "index.html": "/job-map/index.html",
+    "precache-manifest.0c55ca9392c518e3f1a26a9e5924f06b.js": "/job-map/precache-manifest.0c55ca9392c518e3f1a26a9e5924f06b.js",
+    "service-worker.js": "/job-map/service-worker.js",
+    "static/css/main.6f304b5b.chunk.css.map": "/job-map/static/css/main.6f304b5b.chunk.css.map",
+    "static/js/2.bac1adab.chunk.js.LICENSE.txt": "/job-map/static/js/2.bac1adab.chunk.js.LICENSE.txt",
+    "static/media/austin-tx-map.PNG": "/job-map/static/media/austin-tx-map.1cf290d0.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b078931d.js",
+    "static/js/2.bac1adab.chunk.js",
+    "static/css/main.6f304b5b.chunk.css",
+    "static/js/main.2943c73c.chunk.js"
+  ]
+}
