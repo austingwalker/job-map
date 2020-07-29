@@ -1,7 +1,23 @@
-import React from "react";
+import React, { Component } from "react";
+// import API from "../../utils/API";
 import "./Search.css"
 
-const Search = (props) => (
+class Search extends Component {
+  state = {
+    results: {}
+  };
+
+  // componentDidMount() {
+  //   API.getTest()
+  //     .then(res =>
+  //       // this.setState({ results: res.data})
+  //       console.log(res.data)
+  //     )
+  //     .catch(err => console.log(err));
+  // }
+
+  render() {
+    return (
   <form className="w-100">
    <div className="row">
       <div className="col-12 col-md-5 pb-3 pb-md-0">
@@ -15,6 +31,8 @@ const Search = (props) => (
       </div>
     </div> 
   </form>
-);
+    );
+  }
+}
 
 export default Search;
